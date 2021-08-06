@@ -1,3 +1,3 @@
 a nice project 🥳
 
-- lottery program
+- 年会抽奖
